@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1652652B-EAFB-43D7-A1F8-7F05D035A5BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A33A98A2-1739-497C-9DED-91DBBB7915E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/Tests_iOS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "testExampleDeleteFromContextMenu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A33A98A2-1739-497C-9DED-91DBBB7915E4 - b9c113623e201b36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "A33A98A2-1739-497C-9DED-91DBBB7915E4 - b9c113623e201b36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1166">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB47A782-90DE-4491-A97C-BA7A0C65E46D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/Tests_iOS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testExampleDeleteFromContextMenu()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A981668-9728-466B-BD66-BB84B357985C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/Tests_iOS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "testExampleDeleteFromContextMenu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A981668-9728-466B-BD66-BB84B357985C - b9c113623e201bb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "6A981668-9728-466B-BD66-BB84B357985C - b9c113623e201bb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE584282-3FD6-4818-A8C7-DC488928A0CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/Tests_iOS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "testExampleDeleteFdromContextMenu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE584282-3FD6-4818-A8C7-DC488928A0CC - c392af07e356e3ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFdromContextMenu() throws -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  uuid = "DE584282-3FD6-4818-A8C7-DC488928A0CC - c392af07e356e3ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.Tests_iOS.testExampleDeleteFdromContextMenu() throws -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/Tests_iOS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "299">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0859860-D75B-498A-86E3-328866F9A20D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/Tests_iOS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43FE5F77-1F88-46A1-B60D-636E9BBE48CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/DeletePhotoTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "test_Delete_Photo_From_All_Photos_Using_Context_Menu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43FE5F77-1F88-46A1-B60D-636E9BBE48CE - 51f3fd5c81f93a0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "43FE5F77-1F88-46A1-B60D-636E9BBE48CE - 51f3fd5c81f93a0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.testExampleDeleteFromContextMenu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF16B5F9-EEDB-41E5-A76F-AFF10CC95A70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/DeletePhotoTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "test_Delete_Photo_From_All_Photos_Using_Context_Menu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF16B5F9-EEDB-41E5-A76F-AFF10CC95A70 - 2dbcc798f2fcc0a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.test_Delete_Photo_From_All_Photos_Using_Context_Menu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "398">
+               </Location>
+               <Location
+                  uuid = "CF16B5F9-EEDB-41E5-A76F-AFF10CC95A70 - 2dbcc798f2fcc146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.test_Delete_Photo_From_All_Photos_Using_Context_Menu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "398">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D612117-5CA6-4220-A4CF-3FE45BC8ED42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/DeletePhotoTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "test_Delete_Photo_From_All_Photos_Using_Context_Menu()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D612117-5CA6-4220-A4CF-3FE45BC8ED42 - 2dbcc798f2fcc088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.test_Delete_Photo_From_All_Photos_Using_Context_Menu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "490">
+               </Location>
+               <Location
+                  uuid = "9D612117-5CA6-4220-A4CF-3FE45BC8ED42 - 2dbcc798f2fcc0a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tests_iOS.DeletePhotoTest.test_Delete_Photo_From_All_Photos_Using_Context_Menu() -&gt; ()"
+                  moduleName = "Tests iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibelchenko/Documents/Vectornator/VectornatorTestTask/Tests%20iOS/Tests/DeletePhotoTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF0F6DFA-DC05-49B6-8753-EC4E39D9043A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests iOS/Tests/DeletePhotoTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "test_Delete_Photo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
